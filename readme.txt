@@ -6,4 +6,4 @@ Creating a new branch is quick.
 Creating a new branch is quick and simple.
 Peace and love.
 Peace & love.
-You & me.
+You and me.
